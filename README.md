@@ -1,6 +1,9 @@
 # P.T. Emulation 1.4 UEVR Profile
 Motion Controller UEVR Profile + VR Fix Mod
 
+Profile created using this version, P.T. Emulation v1.4:
+
+https://www.reddit.com/r/silenthill/comments/m3oxkl/pt_emulation_14_for_download/
 
 ## Requires UEVR 1.05 (or Nightly)
 https://github.com/praydog/UEVR
